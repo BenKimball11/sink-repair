@@ -1,0 +1,29 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "merle"
+    },
+    {
+      "id": 2,
+      "name": "maude"
+    }
+  ],
+  "completions": [],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Fixing it all.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "description": "This is a test ",
+      "address": "123",
+      "budget": "123",
+      "neededBy": "2222-02-22",
+      "id": 3
+    }
+  ]
+}
